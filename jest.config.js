@@ -9,4 +9,5 @@ module.exports = {
     },
   },
   errorOnDeprecated: true,
+  modulePaths: ["<rootDir>/src"],
 };
